@@ -1,0 +1,19 @@
+{
+  "label": "Treemap Visualization",
+  "category_label": "plug-ins",
+  "branding": {
+    "image_uri": "https://example.com/visualization-screenshots/treemap_icon.png",
+    "tagline": "Use the Treemap visualization to display hierarchical data as nested rectangles."
+  },
+  "constants": {
+    "vis_label": {
+      "label": "Visualization Label",
+      "description": "This label will appear in the visualization selector in the Looker Explore UI."
+    },
+    "vis_id": {
+      "label": "Visualization Id",
+      "description": "This must be a unique ID across all visualizations.",
+      "value_constraint": "visualization"
+    }
+  }
+}
